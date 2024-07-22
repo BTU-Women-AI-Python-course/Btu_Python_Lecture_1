@@ -7,7 +7,7 @@
 - სამუშაო გარემოს მოწყობა
 
 ## Basics
-- Variables
-- Data Types
-- Operators
+- Variables - https://www.w3schools.com/python/python_variables.asp
+- Data Types - https://www.w3schools.com/python/python_datatypes.asp
+- Operators - https://www.w3schools.com/python/python_operators.asp
   
